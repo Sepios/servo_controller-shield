@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/06/2014 02:31:08
+
+BeginCmp
+TimeStamp = /52A49A81;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A499A1;
+Reference = C2;
+ValeurCmp = 10n;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A499D7;
+Reference = C3;
+ValeurCmp = 33u;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A499F9;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A49BC4;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4AC40;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A49064;
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = SO8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4B351;
+Reference = P1;
+ValeurCmp = SERVO_PWR;
+IdModule  = pin_array_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4AE1F;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A49CFA;
+Reference = P4;
+ValeurCmp = SENSOR0;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4A7B8;
+Reference = P5;
+ValeurCmp = SENSOR1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A49D35;
+Reference = P7;
+ValeurCmp = SERVO_IO;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4A64C;
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4A65B;
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4991C;
+Reference = R3;
+ValeurCmp = 47k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A4ACAB;
+Reference = R4;
+ValeurCmp = 680;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A48971;
+Reference = U1;
+ValeurCmp = LT1761;
+IdModule  = SOT23-5;
+EndCmp
+
+EndListe
